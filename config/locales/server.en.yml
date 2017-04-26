@@ -1,0 +1,10 @@
+en:
+  site_settings:
+    participa_enabled: 'Allow users to authenticate via Participa'
+    participa_client_id: 'Participa Client ID'
+    participa_client_secret: 'Participa Client Secret'
+    participa_site: 'URL for Participa'
+    participa_authorize_url: 'Authorization URL for Participa (e.g. /oauth/authorize)'
+    participa_token_url: 'Token URL for Participa (e.g. /oauth/token)'
+    participa_endpoint_url: 'User endpoint URL for Participa (e.g. /api/v2/users/me)'
+    participa_manage_groups: 'Delegate group management to Participa'

@@ -1,0 +1,25 @@
+login:
+  participa_enabled:
+    default: false
+    client: true
+  participa_client_id:
+    default: ''
+    client: false
+  participa_client_secret:
+    default: ''
+    client: false
+  participa_site:
+    default: ''
+    client: false
+  participa_authorize_url:
+    default: ''
+    client: false
+  participa_token_url:
+    default: ''
+    client: false
+  participa_endpoint_url:
+    default: ''
+    client: false
+  participa_manage_groups:
+    default: false
+    client: false
